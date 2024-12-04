@@ -11,8 +11,4 @@ public class BrowserDriver {
         System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")+ "/src/test/resources/drivers/chromedriver.exe");
         this.driver = new ChromeDriver();
     }
-
-    public void close(){
-        this.driver.close();
-    }
 }
