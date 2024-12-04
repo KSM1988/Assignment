@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/kylem/IdeaProjects/Assignment">
         <classes>
-            <class name="Runner.Run"/>
+            <class name="runner.Run"/>
         </classes>
     </test>
 </suite>

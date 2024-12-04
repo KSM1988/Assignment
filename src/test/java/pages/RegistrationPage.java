@@ -2,7 +2,7 @@ package pages;
 
 import org.openqa.selenium.By;
 
-import static Utility.BrowserDriver.driver;
+import static utility.BrowserDriver.driver;
 
 public class RegistrationPage {
 

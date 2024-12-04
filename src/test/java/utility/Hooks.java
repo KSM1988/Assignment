@@ -1,9 +1,9 @@
-package Utility;
+package utility;
 
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 
-import static Utility.BrowserDriver.driver;
+import static utility.BrowserDriver.driver;
 
 public class Hooks {
 

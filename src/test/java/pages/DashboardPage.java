@@ -5,7 +5,7 @@ import org.openqa.selenium.WebElement;
 
 import java.util.List;
 
-import static Utility.BrowserDriver.driver;
+import static utility.BrowserDriver.driver;
 
 public class DashboardPage {
 
