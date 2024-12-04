@@ -18,7 +18,8 @@ public class RegistrationPage {
     public static String alert_message_css = "body > div > div > div > form > div.alert.alert-danger";
 
     public static void goToRegistrationPage() {
-        driver.get("file:///C:/Users/kylem/Documents/registration-test/registration-test/register.html");
+        driver.get("http://localhost:4200/");
+
     }
 
     public static void click_registration_register_button () {

@@ -11,7 +11,8 @@ public class HomePage {
     public static String register_button_id = "body > div > div > div > div > p:nth-child(3) > a";
 
     public static void goToRegisterPage() {
-        driver.get("C:/Users/kylem/Documents/registration-test/registration-test/index.html");
+        driver.get("http://localhost:4200/");
+        click_register_button();
     }
 
     public static void click_register_button() {
